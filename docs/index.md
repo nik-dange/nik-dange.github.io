@@ -1,6 +1,12 @@
 # Nikhil's GitHub Page
 
+
+
 Welcome to my page! My name is Nikhil, and I'm a junior studying **Computer Engineering @ UC San Diego**. Feel free to navigate to any parts of my page to learn more about me!
+
+[My LinkedIn](https://www.linkedin.com/in/nsdange/)
+
+[My GitHub](https://github.com/nik-dange)
 
 
 ## **Interests**
@@ -19,7 +25,7 @@ One language I worked with this past summer was TypeScript - here's how to say H
 let message: string = 'Hello World!';
 console.log(message);
 ```
-
+> TypeScript is a popular language since it has 'types' - ~~something JavaScript doesn't have.~~
 ### **Non-technical**
 
 1. Football
@@ -36,8 +42,9 @@ In no particular order since it's too hard to rank them:
 - Agents of Shield
 - Game of Thrones
 
-> My favorite character is probably Daisy Johnson from Agents of Shield - hoping she makes an appearance in the MCU!
+> *My favorite character is probably Daisy Johnson from Agents of Shield - hoping she makes an appearance in the MCU!*
 
+---
 
 I'm also pretty into exploring beaches in San Diego! Here are a few pictures of my favorite beaches:
 
@@ -49,11 +56,11 @@ I'm also pretty into exploring beaches in San Diego! Here are a few pictures of 
 ### **La Jolla Shores/Scripps Pier**
 [La Jolla](LaJolla.JPG)
 
-### **Things I'm part of**
+## **Other Things About Me**
 
 I'm currently a technical event director for ACM @ UCSD - [check out our website here!](https://acmucsd.com)
 
-Here's what's next on my to do list:
+And here's what's next on my to do list:
 
 - [x] Finish the first CSE 110 Lab
 - [ ] Travel to NYC
