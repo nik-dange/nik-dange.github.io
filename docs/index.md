@@ -1,6 +1,6 @@
 # Welcome to my page!!
 
-My name is Nikhil, and I'm a junior studying **Computer Engineering** @ UC San Diego. Feel free to navigate to any parts of my page to learn more about me!
+My name is Nikhil, and I'm a junior studying **Computer Engineering @ UC San Diego**. Feel free to navigate to any parts of my page to learn more about me!
 
 
 
@@ -36,11 +36,11 @@ I'm also pretty into exploring beaches in San Diego! Here are a few pictures of 
 
 ### **Windansea Beach**
 
-[Windansea Beach](/docs/Windansea.jpg)
+[Windansea Beach](Windansea.jpg)
 ### **Moonlight Beach (Encinitas)**
 [Moonlight Beach](/docs/Encinitas.JPG)
 ### **La Jolla Shores/Scripps Pier**
-[La Jolla](/docs/LaJolla.JPG)
+[La Jolla](docs/LaJolla.JPG)
 
 ### **Things I'm part of**
 
@@ -48,8 +48,8 @@ I'm currently a technical event director for ACM @ UCSD - [check out our website
 
 Here's what's next on my to do list:
 
-[ ] Travel to NYC
-[ ] Finish this quarter strong
-[ ] Build a whole gingerbread house this winter break
+- [ ] Travel to NYC
+- [ ] Finish this quarter strong
+- [ ] Build a whole gingerbread house this winter break
 
 
