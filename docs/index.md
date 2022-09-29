@@ -2,7 +2,7 @@
 
 My name is Nikhil, and I'm a junior studying **Computer Engineering** @ UC San Diego. Feel free to navigate to any parts of my page to learn more about me!
 
-#
+
 
 ## **Interests**
 
@@ -30,17 +30,17 @@ console.log(message);
 4. Formula 1
     - I just got into this pretty recently but it's a super unique sport to learn about
 
-#
+
 
 I'm also pretty into exploring beaches in San Diego! Here are a few pictures of my favorite beaches:
 
 ### **Windansea Beach**
 
-[Windansea Beach](Windansea.jpg)
+[Windansea Beach](/docs/Windansea.jpg)
 ### **Moonlight Beach (Encinitas)**
-[Moonlight Beach](Encinitas.JPG)
+[Moonlight Beach](/docs/Encinitas.JPG)
 ### **La Jolla Shores/Scripps Pier**
-[La Jolla](LaJolla.JPG)
+[La Jolla](/docs/LaJolla.JPG)
 
 ### **Things I'm part of**
 
@@ -48,8 +48,8 @@ I'm currently a technical event director for ACM @ UCSD - [check out our website
 
 Here's what's next on my to do list:
 
-- [ ] Travel to NYC
-- [ ] Finish this quarter strong
-- [ ] Build a whole gingerbread house this winter break
+[ ] Travel to NYC
+[ ] Finish this quarter strong
+[ ] Build a whole gingerbread house this winter break
 
 
