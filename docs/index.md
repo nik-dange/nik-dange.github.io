@@ -6,7 +6,7 @@ My name is Nikhil, and I'm a junior studying **Computer Engineering** @ UC San D
 
 ## **Interests**
 
-Here are some of my current interests, technical and non-technical!
+Here are some of my current interests, both technical and non-technical!
 
 ### **Technical**
 1. Software Engineering
