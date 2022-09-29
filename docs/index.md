@@ -26,6 +26,9 @@ let message: string = 'Hello World!';
 console.log(message);
 ```
 > TypeScript is a popular language since it has 'types' - ~~something JavaScript doesn't have.~~
+
+
+
 ### **Non-technical**
 
 1. Football
