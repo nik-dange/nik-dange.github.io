@@ -1,7 +1,6 @@
-# Welcome to my page!!
+# Nikhil's GitHub Page
 
-My name is Nikhil, and I'm a junior studying **Computer Engineering @ UC San Diego**. Feel free to navigate to any parts of my page to learn more about me!
-
+Welcome to my page! My name is Nikhil, and I'm a junior studying **Computer Engineering @ UC San Diego**. Feel free to navigate to any parts of my page to learn more about me!
 
 
 ## **Interests**
@@ -9,7 +8,7 @@ My name is Nikhil, and I'm a junior studying **Computer Engineering @ UC San Die
 Here are some of my current interests, both technical and non-technical!
 
 ### **Technical**
-1. Software Engineering
+1. Software Engineering Processes
 2. Back-end Development
 3. Containers and orchestration software
     - Currently learning more about software like Docker and Kubernetes!
@@ -31,6 +30,14 @@ console.log(message);
     - I just got into this pretty recently but it's a super unique sport to learn about
 
 
+### **Current Favorite TV Shows**
+In no particular order since it's too hard to rank them:
+- Friends
+- Agents of Shield
+- Game of Thrones
+
+> My favorite character is probably Daisy Johnson from Agents of Shield - hoping she makes an appearance in the MCU!
+
 
 I'm also pretty into exploring beaches in San Diego! Here are a few pictures of my favorite beaches:
 
@@ -38,9 +45,9 @@ I'm also pretty into exploring beaches in San Diego! Here are a few pictures of 
 
 [Windansea Beach](Windansea.jpg)
 ### **Moonlight Beach (Encinitas)**
-[Moonlight Beach](/docs/Encinitas.JPG)
+[Moonlight Beach](Encinitas.JPG)
 ### **La Jolla Shores/Scripps Pier**
-[La Jolla](docs/LaJolla.JPG)
+[La Jolla](LaJolla.JPG)
 
 ### **Things I'm part of**
 
@@ -48,8 +55,8 @@ I'm currently a technical event director for ACM @ UCSD - [check out our website
 
 Here's what's next on my to do list:
 
+- [x] Finish the first CSE 110 Lab
 - [ ] Travel to NYC
-- [ ] Finish this quarter strong
 - [ ] Build a whole gingerbread house this winter break
 
 
